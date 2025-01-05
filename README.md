@@ -1,4 +1,6 @@
 # Hi there, I'm Numaan 👋
+![Numaan's Photo]([URL_TO_YOUR_IMAGE](https://media.licdn.com/dms/image/v2/D5635AQEathrQ5mcqlw/profile-framedphoto-shrink_800_800/profile-framedphoto-shrink_800_800/0/1735181526570?e=1736690400&v=beta&t=hVxVTJuke2a6_ZqCqr9fCQyLI6SJfrm-OtfVBY6oIIk))
+
 
 Welcome to my GitHub profile! I'm a passionate developer always eager to learn and explore new technologies. Here you'll find some of the projects I've been working on.
 
@@ -24,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn a
 ## 📫 How to reach me
 
 - Email: numaan@example.com
-- LinkedIn: [Numaan's LinkedIn](https://www.linkedin.com/in/numaan/)
+- LinkedIn: [Numaan's LinkedIn]([https://www.linkedin.com/in/numaan/](https://www.linkedin.com/in/shaik-mohammad-numaan-b45608258/))
 
 ## 📂 Projects
 
